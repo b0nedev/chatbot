@@ -1,0 +1,2 @@
+model_checkpoint_path: "thegoblin.chkp_sts-1000"
+all_model_checkpoint_paths: "thegoblin.chkp_sts-1000"
